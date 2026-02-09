@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Yuriy, a Backend Developer 👋
 
 ### 🌐 Socials
 <p align="left">
