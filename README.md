@@ -11,13 +11,13 @@
   </a>
 </p>
 
-<p align="center">Spring Boot
+<p align="center">
   <img src="game.gif" alt="My GitHub Game" width="100%" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
+<div style="display: flex; align-items: flex-start; justify-content: flex-start;">
+<table>
 <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="48" height="48" alt="Java" />
@@ -28,13 +28,13 @@
       <br>Spring
     </td>
  <td align="center" width="96">
-        <img src="	https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" 
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" 
 width="48" height="48" alt="Spring Boot" />
       <br>Spring Boot
     </td>
   <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png
-" width="48" height="48" alt="Hibernate" />
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" 
+          width="48" height="48" alt="Hibernate" />
       <br>Hibernate
     </td>
   <td align="center" width="96">
@@ -52,8 +52,8 @@ width="48" height="48" alt="Mockito" />
 
  <tr>
  <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png
-" width="48" height="48" alt="Maven" />
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" 
+          width="48" height="48" alt="Maven" />
       <br>Maven
     </td>
     <td align="center" width="96">
@@ -62,40 +62,47 @@ width="48" height="48" alt="Mockito" />
       <br>Tomcat
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" 
+          alt="icon" width="65" height="65" />
       <br>Github
     </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-width="48" height="48" alt="Git" />
+    width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="restapi" />
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" 
+          width="48" height="48" alt="restapi" />
       <br>REST APIs
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=postgres" 
+          width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
  </tr>
 
  <tr>
       <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
+          width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
       </td>
             <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" 
+          width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
               <td align="center" width="96">
-        <img src="https://d33wubrfki0l68.cloudfront.net/45825999a370278a2d392daafce3e7a95de0fff2/3bada/img/logo/svg/full_colored_light.svg" width="48" height="48" alt="Bash" />
+        <img src="https://d33wubrfki0l68.cloudfront.net/45825999a370278a2d392daafce3e7a95de0fff2/3bada/img/logo/svg/full_colored_light.svg"
+          width="48" height="48" alt="Bash" />
       <br>Bash
     </td>
               <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg"
+          width="48" height="48" alt="Kubernetes" />
       <br>Kubernetes
     </td>
     <td align="center" width="96">
